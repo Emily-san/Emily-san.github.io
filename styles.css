@@ -1,0 +1,64 @@
+body {
+  background-color: black;
+}
+
+ p {
+   color: white;
+ }
+
+#bio {
+  background-color: grey;
+}
+#redlist {
+  background-color: grey;
+}
+
+#bakusquad{
+  color: white;
+  background-color: black;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: red;
+}
+
+h3 {
+  color: red;
+}
+
+h4{
+  color: red;
+}
+
+ul {
+  color: white;
+  list-style-type: disc;
+}
+
+li {
+  color: white;
+}
+
+.center {
+  text-align: center;
+}
+
+.column {
+  float: left;
+  width: 35%;
+  padding: 10px;
+}
+
+.column img {
+  margin-top: 12px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
